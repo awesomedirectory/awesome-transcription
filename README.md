@@ -40,6 +40,7 @@ Whisper changed what transcription costs and what it can do. This list covers th
 *Upload a file, get a transcript, no install.*
 
 * [Happy Scribe](https://www.happyscribe.com) - Transcription and subtitling with a human-review tier, aimed at media and research teams.
+ * [Longscribe](https://longscribe.com) - Free transcription for long audio, video and podcasts up to 500 MB, with timestamps and TXT, SRT, DOCX or JSON export.
 * [Rev](https://www.rev.com) - Long-running service offering both automated and human transcription with accuracy guarantees.
 * [Sonix](https://sonix.ai) - Automated transcription with in-browser editing, translation, and publishing workflows.
 * [TranscribeAnything](https://transcribeanything.app) - Browser-based transcription in 100+ languages with speaker detection and word-level timestamps. Accepts MP3, WAV, MP4, MOV, WebM and YouTube URLs; exports TXT, SRT, VTT, and JSON. No account required.
