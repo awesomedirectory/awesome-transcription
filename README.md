@@ -69,6 +69,7 @@ Whisper changed what transcription costs and what it can do. This list covers th
 
 * [Descript](https://www.descript.com) - Audio and video editor where cutting the transcript cuts the media.
 * [Kapwing](https://www.kapwing.com) - Browser video editor with automatic subtitling and translation.
+* [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first toolkit for transcription, subtitles, and transcript-driven video editing.
 * [Subtitle Edit](https://www.nikse.dk/subtitleedit) - Free, open-source subtitle editor with waveform sync and format conversion.
 
 ## Benchmarks & Reading
