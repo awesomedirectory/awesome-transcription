@@ -59,6 +59,7 @@ Whisper changed what transcription costs and what it can do. This list covers th
 ## Meeting Recorders & Notetakers
 *Transcription attached to calendars and calls.*
 
+* [Botik](https://github.com/777genius/discord-meeting-assistant) - Self-hosted Discord meeting assistant: records calls, transcripts, summaries, and Q&A.
 * [Fathom](https://fathom.video) - Meeting recorder with free transcription and automatic summaries.
 * [Fireflies.ai](https://fireflies.ai) - Meeting notetaker that joins calls, transcribes, and searches across past meetings.
 * [Granola](https://www.granola.ai) - Mac notepad that enhances your own typed notes with meeting audio.
