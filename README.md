@@ -75,6 +75,7 @@ Whisper changed what transcription costs and what it can do. This list covers th
 *How to tell whether any of this is actually accurate.*
 
 * [Artificial Analysis — Speech to Text](https://artificialanalysis.ai/speech-to-text) - Independent accuracy and price comparisons across ASR providers.
+* [Browser Whisper Benchmark](https://github.com/nickwebt800/browser-whisper-benchmark) - Measured wall-clock timings for Whisper tiny.en running in the browser (transformers.js / WASM), plus a script to estimate any audio length.
 * [Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard) - Hugging Face leaderboard ranking open speech recognition models by word error rate.
 * [Whisper paper](https://arxiv.org/abs/2212.04356) - "Robust Speech Recognition via Large-Scale Weak Supervision," the original Whisper research.
 
