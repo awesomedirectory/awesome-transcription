@@ -45,6 +45,7 @@ Whisper changed what transcription costs and what it can do. This list covers th
 * [TranscribeAnything](https://transcribeanything.app) - Browser-based transcription in 100+ languages with speaker detection and word-level timestamps. Accepts MP3, WAV, MP4, MOV, WebM and YouTube URLs; exports TXT, SRT, VTT, and JSON. No account required.
 * [Trint](https://trint.com) - Transcription platform built around a collaborative editor, used heavily in newsrooms.
 * [TurboScribe](https://turboscribe.ai) - High-volume transcription service with generous file-length limits.
+* [WatchToText](https://watchtotext.com) - Free browser tool for YouTube, TikTok, and Instagram transcripts with TXT, SRT, and VTT export.
 
 ## Speech-to-Text APIs
 *For putting transcription inside your own product.*
