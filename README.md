@@ -39,6 +39,7 @@ Whisper changed what transcription costs and what it can do. This list covers th
 ## Web Apps & Services
 *Upload a file, get a transcript, no install.*
 
+* [ClipQuill](https://clipquill.com) - Browser transcription in 30 languages; audio is transcribed locally, so the file is never uploaded.
 * [Happy Scribe](https://www.happyscribe.com) - Transcription and subtitling with a human-review tier, aimed at media and research teams.
 * [Rev](https://www.rev.com) - Long-running service offering both automated and human transcription with accuracy guarantees.
 * [Sonix](https://sonix.ai) - Automated transcription with in-browser editing, translation, and publishing workflows.
