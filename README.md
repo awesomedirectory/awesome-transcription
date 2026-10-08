@@ -49,6 +49,7 @@ Whisper changed what transcription costs and what it can do. This list covers th
 ## Speech-to-Text APIs
 *For putting transcription inside your own product.*
 
+* [Arcmira: YouTube Transcript Search](https://arcmira.com) - Search indexed YouTube transcripts for timestamped passages, with Premium transcripts supporting speaker identification.
 * [AssemblyAI](https://www.assemblyai.com) - Speech-to-text API with diarization, summarization, and content-moderation models.
 * [Azure AI Speech](https://azure.microsoft.com/products/ai-services/ai-speech) - Microsoft's speech service with real-time and batch transcription and custom model training.
 * [Deepgram](https://deepgram.com) - Low-latency streaming and batch speech-to-text API with domain-tuned models.
