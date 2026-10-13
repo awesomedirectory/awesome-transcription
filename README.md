@@ -59,6 +59,7 @@ Whisper changed what transcription costs and what it can do. This list covers th
 ## Meeting Recorders & Notetakers
 *Transcription attached to calendars and calls.*
 
+* [echo99](https://www.echo99.app/) - Free Mac menu-bar call recorder with no meeting bot; transcribes, labels speakers and summarizes on-device.
 * [Fathom](https://fathom.video) - Meeting recorder with free transcription and automatic summaries.
 * [Fireflies.ai](https://fireflies.ai) - Meeting notetaker that joins calls, transcribes, and searches across past meetings.
 * [Granola](https://www.granola.ai) - Mac notepad that enhances your own typed notes with meeting audio.
