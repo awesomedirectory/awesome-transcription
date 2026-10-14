@@ -67,6 +67,7 @@ Whisper changed what transcription costs and what it can do. This list covers th
 ## Subtitling & Video Editing
 *Where the transcript is the edit surface.*
 
+* [Burncaps](https://burncaps.app) - Browser tool that burns word-by-word captions into a video and makes SRT, VTT and ASS files; the video is never uploaded.
 * [Descript](https://www.descript.com) - Audio and video editor where cutting the transcript cuts the media.
 * [Kapwing](https://www.kapwing.com) - Browser video editor with automatic subtitling and translation.
 * [Subtitle Edit](https://www.nikse.dk/subtitleedit) - Free, open-source subtitle editor with waveform sync and format conversion.
