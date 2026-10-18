@@ -74,6 +74,7 @@ Whisper changed what transcription costs and what it can do. This list covers th
 ## Benchmarks & Reading
 *How to tell whether any of this is actually accurate.*
 
+* [AI Scribe Review: Six-Service Comparison](https://aiscribereview.com/accuratescribe-vs-otter-sonix-notta-descript-rev/) - Pricing, file limits, exports, and sourced accuracy evidence for six hosted transcription services.
 * [Artificial Analysis — Speech to Text](https://artificialanalysis.ai/speech-to-text) - Independent accuracy and price comparisons across ASR providers.
 * [Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard) - Hugging Face leaderboard ranking open speech recognition models by word error rate.
 * [Whisper paper](https://arxiv.org/abs/2212.04356) - "Robust Speech Recognition via Large-Scale Weak Supervision," the original Whisper research.
