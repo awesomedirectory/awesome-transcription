@@ -68,6 +68,7 @@ Whisper changed what transcription costs and what it can do. This list covers th
 *Where the transcript is the edit surface.*
 
 * [Descript](https://www.descript.com) - Audio and video editor where cutting the transcript cuts the media.
+* [Karaoke Captions](https://karaokecaptions.com/) - Browser-based word-by-word video captions with on-device transcription and MP4, SRT and VTT export.
 * [Kapwing](https://www.kapwing.com) - Browser video editor with automatic subtitling and translation.
 * [Subtitle Edit](https://www.nikse.dk/subtitleedit) - Free, open-source subtitle editor with waveform sync and format conversion.
 
