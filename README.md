@@ -42,6 +42,7 @@ Whisper changed what transcription costs and what it can do. This list covers th
 * [Happy Scribe](https://www.happyscribe.com) - Transcription and subtitling with a human-review tier, aimed at media and research teams.
 * [Rev](https://www.rev.com) - Long-running service offering both automated and human transcription with accuracy guarantees.
 * [Sonix](https://sonix.ai) - Automated transcription with in-browser editing, translation, and publishing workflows.
+* [Transcribe Video: To The Text](https://video2text.ttt.so) - iPhone app that transcribes video/audio files, YouTube links, and live voice, with speaker labels, summaries, and TXT/DOCX export.
 * [TranscribeAnything](https://transcribeanything.app) - Browser-based transcription in 100+ languages with speaker detection and word-level timestamps. Accepts MP3, WAV, MP4, MOV, WebM and YouTube URLs; exports TXT, SRT, VTT, and JSON. No account required.
 * [Trint](https://trint.com) - Transcription platform built around a collaborative editor, used heavily in newsrooms.
 * [TurboScribe](https://turboscribe.ai) - High-volume transcription service with generous file-length limits.
