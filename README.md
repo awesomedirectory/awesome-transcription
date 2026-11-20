@@ -33,6 +33,7 @@ Whisper changed what transcription costs and what it can do. This list covers th
 * [Aiko](https://sindresorhus.com/aiko) - Free Mac and iOS transcription app running Whisper entirely on-device.
 * [Hello Transcribe](https://www.hellotranscribe.com) - On-device transcription for iOS and macOS with no server round-trip.
 * [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) - The most widely used Mac Whisper front-end, with batch processing, diarization, and subtitle export.
+* [Speakey for Mac](https://getspeakey.com/) - Hold a key to dictate into the active Mac app without Wi-Fi, or use a second key to give spoken commands.
 * [Superwhisper](https://superwhisper.com) - Mac dictation and transcription app focused on voice-driven text input across applications.
 * [Vibe](https://thewh1teagle.github.io/vibe/) - Open-source cross-platform transcription app for macOS, Windows, and Linux.
 
