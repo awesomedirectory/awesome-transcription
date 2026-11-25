@@ -35,6 +35,7 @@ Whisper changed what transcription costs and what it can do. This list covers th
 * [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) - The most widely used Mac Whisper front-end, with batch processing, diarization, and subtitle export.
 * [Superwhisper](https://superwhisper.com) - Mac dictation and transcription app focused on voice-driven text input across applications.
 * [Vibe](https://thewh1teagle.github.io/vibe/) - Open-source cross-platform transcription app for macOS, Windows, and Linux.
+* [Whispy](https://usewhispy.com) - Local transcription app for Apple Silicon Macs and Windows. The AI runs on your computer and has no cloud mode.
 
 ## Web Apps & Services
 *Upload a file, get a transcript, no install.*
